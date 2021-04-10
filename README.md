@@ -7,8 +7,4 @@ Funciona em todas platafor
 
 Como alternativa, clone e execute o repositório de início rápido de elétron / elétron para ver o projeto funcionar:
 
-` git clone https://github.com/JohanDev6/CientificCalculator 
-  cd
-
-
-`
+``` git clone https://github.com/JohanDev6/CientificCalculator ```
